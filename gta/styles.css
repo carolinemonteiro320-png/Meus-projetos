@@ -5,13 +5,11 @@
 }
 
 html {
-
     height: 100%;
-
 }
 
 body {
-    background-image: url("img/background2.jpg");
+    background-image: url("background2.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -64,7 +62,6 @@ h1 {
     align-items: center;
     width: 100%;
     gap: 20px;
-
 }
 
 .avatar {
@@ -80,5 +77,4 @@ h1 {
     background-color: #ffd319;
     padding: 20px;
     border-radius: 50%;
-
 }
